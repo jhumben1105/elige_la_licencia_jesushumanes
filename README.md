@@ -1,4 +1,4 @@
-Nombre: Fight or Die
+*Fight or Die
 Modelo de negocio: Modelo abierto con servicios
 Licencia: GNU GPLv3
 
