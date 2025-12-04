@@ -1,6 +1,8 @@
-*Fight or Die
-Modelo de negocio: Modelo abierto con servicios
-Licencia: GNU GPLv3
+- Fight or Die
+  
+- Modelo de negocio: Modelo abierto con servicios
+  
+- Licencia: GNU GPLv3
 
 - ¿Porqué elijo esta licencia?:
   Me parece la mejor licecencia para este juego. Quiero gener ingresos pero también quiero que las personas disfruten del contenido ásico sin pagar, además me gusta la idea de que la comunidad añada o distribuya versiones del juego pero sin cobrar por ello.
